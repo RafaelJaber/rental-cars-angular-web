@@ -9,7 +9,7 @@ import {TagModule} from "primeng/tag";
   standalone: true,
   imports: [
     TableModule,
-    TagModule
+    TagModule,
   ],
   templateUrl: './home-content-table.component.html',
   styleUrl: './home-content-table.component.scss',
